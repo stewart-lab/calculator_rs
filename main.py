@@ -8,9 +8,9 @@ def main():
 
 def multiply(x, y):
     # do it wrong
-    return x / y
+    # return x / y
     # do it right
-    # return x * y
+    return x * y
 
 
 if __name__ == "__main__":
